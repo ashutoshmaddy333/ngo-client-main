@@ -1,0 +1,22 @@
+.custom-slider .rc-slider-track {
+  background-color: #fa812f;
+  height: 6px;
+}
+
+.custom-slider .rc-slider-handle {
+  border: 2px solid #fa4032;
+  background-color: white;
+  width: 20px;
+  height: 20px;
+  margin-top: -7px;
+}
+
+.custom-slider .rc-slider-handle:nth-child(3) {
+  border-color: green;
+}
+
+.custom-slider .rc-slider-rail {
+  background-color: #ddd;
+  height: 6px;
+}
+
